@@ -4,7 +4,7 @@ Python wrapper and examples for a USB thermo hygrometer from Strawberry Linux Co
 The USB thermo hygrometer can be purchaseed at https://strawberry-linux.com/catalog/items?code=52001 (in Japanese)
 
 ## Dependencies
-- 32-bit Python.
+- Python3 (32 bit).
 
 The official DLL seems to work only in 32-bit environment.
 
