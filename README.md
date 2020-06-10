@@ -6,7 +6,7 @@ The USB thermo hygrometer can be purchaseed at https://strawberry-linux.com/cata
 ## Dependencies
 - Python3 (32 bit).
 
-The wrapped DLL seems to work only in 32-bit environment.
+The DLL seems to work only in 32-bit environment.
 
 - USBMeter.dll
 
