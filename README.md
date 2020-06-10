@@ -10,7 +10,7 @@ The official DLL seems to work only in 32-bit environment.
 
 - USBMeter.dll
 
-Distributed with sample codes from https://strawberry-linux.com/catalog/items?code=52001 (in Japanese). Please change "Path-to-USBMeter.dll" in [examples.py](./examples.py) to the actual path.
+Distributed with sample codes from https://strawberry-linux.com/catalog/items?code=52001 (in Japanese). Please change ``"Path-to-USBMeter.dll"`` in [examples.py](./examples.py) to the actual path.
 
 ## License
 MIT
